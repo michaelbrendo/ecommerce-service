@@ -1,4 +1,5 @@
 # Ecommerce-service
+Learning how to use and apply Producers, Processors and Consumers.
 
 ## How to run
 ```bash
